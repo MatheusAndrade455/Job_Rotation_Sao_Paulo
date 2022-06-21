@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Estágio SP\N°3\bin\Debug\net6.0\N°3.exe
+C:\Users\mathe\Desktop\Estágio SP\N°3\bin\Debug\net6.0\N°3.deps.json
+C:\Users\mathe\Desktop\Estágio SP\N°3\bin\Debug\net6.0\N°3.runtimeconfig.json
+C:\Users\mathe\Desktop\Estágio SP\N°3\bin\Debug\net6.0\N°3.dll
+C:\Users\mathe\Desktop\Estágio SP\N°3\bin\Debug\net6.0\N°3.pdb
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.dll
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\refint\N°3.dll
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.pdb
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\N°3.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Estágio SP\N°3\obj\Debug\net6.0\ref\N°3.dll
